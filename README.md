@@ -3,8 +3,11 @@ Just what it says on the tin. this is a collection of buttons and automations fo
 
 ## Importing the Deck into SAMMI
 To import a deck:
+
 1.) Copy the raw text from one of the "Deck" files above.
+
 2.) In SAMMI Core, click on the "+" button.
+
 3.) Select "Paste Deck".
 
 ## The Example Deck
@@ -32,3 +35,25 @@ Buttons can have an initial variable set by right clicking on them and going to 
 Most of the Twitch API buttons include mention of a "bot" account. There are a couple of different ways bots can work on Twitch; in SAMMI's case, this can be an actual bot using a separate that you've programmed to "live" on your channel, or a separate account that you've previously set up and connected to SAMMI that you're sending instructons to. I **strongly recommend** that you run API commands via your own account unless you already have an account set up for this purpose.
 
 The SAMMI buttons, in turn, will send messages and announcements based on which account is set as "Join chat under this name" in Twitch Connections, selectable at the bottom of the SAMMI Core window. These should be fine for the majority of folks who need automations That Just Work without too much fuss.
+
+## Examples
+### Announcement
+![SAMMI_Twitch_Announcement](https://user-images.githubusercontent.com/112423124/209442719-0e3ae688-194f-48e4-af90-03e32fc7ba51.png)
+
+### Dynamic Subscriber Alert
+![SubscriptionCombo-768x602](https://user-images.githubusercontent.com/112423124/209442757-f0a9e03a-7ec1-4225-bd4f-13d4dfb7226d.png)
+
+
+### Basic Follow Alerts
+**Fade**
+
+https://user-images.githubusercontent.com/112423124/209442687-02a10d73-92dd-4b6f-872c-fb200397de2f.mp4
+
+**Motion**
+
+https://user-images.githubusercontent.com/112423124/209442699-55039c3b-4046-4ac6-a54a-3d1635b73caf.mp4
+
+### Advanced Follow Alert
+
+https://user-images.githubusercontent.com/112423124/209442865-11d4081b-dc3d-4a03-876a-faaae8fc7332.mp4
+
