@@ -1,10 +1,10 @@
-# SAMMI Stream Deck Buttons
-Just what it says on the tin. this is a collection of buttons and automations for [SAMMI](https://github.com/SAMMISolutions/SAMMI-Official/releases), arranged into a single deck. Most buttons are geared towards Twitch specifically, though many of them can be adapted to work with YouTube via adjusting the triggers in SAMMI. Several others are buttons that are activated manually, or are for automation.
+# Superfuture Technolabs SAMMI Stream Deck
+This is a collection of buttons and automations for [SAMMI](https://github.com/SAMMISolutions/SAMMI-Official/releases), arranged into a single deck and named (loosely) after the theming of my livestreams. Most buttons are geared towards Twitch specifically, though many of them can be adapted to work with YouTube via adjusting the triggers in SAMMI. Several others are buttons that are activated manually, or are for automation.
 
 ## Importing the Deck into SAMMI
 To import a deck:
 
-1.) Copy the raw text from one of the "Deck" files above.
+1.) Copy the raw text from the "SFTLDeck.txt" file above.
 
 2.) In SAMMI Core, click on the "+" button.
 
