@@ -1,4 +1,4 @@
-# Superfuture Technolabs SAMMI Decks and Buttons
+# Superfuture Technolabs SAMMI Examples
 This is a collection of buttons and automations for [SAMMI](https://github.com/SAMMISolutions/SAMMI-Official/releases), arranged into a single deck and named (loosely) after the theming of my livestreams. Most buttons are geared towards Twitch specifically, though many of them can be adapted to work with YouTube via adjusting the triggers in SAMMI. Several others are buttons that are activated manually, or are for automation.
 
 NOTE: A *lot* has changed since I started putting together the initial deck, including how API calls are handled (nearly all of them are now handled via SAMMI commands rather than HTTP requests) and various updates to SAMMI itself, which means a lot of this is outdated. I don't want to take it all down in case someone finds use for what I have so far, so I'm going to rework and update things as I go along. The decks and buttons outlined below still work just fine, but there are typically better ways to handle what they do at this point.
