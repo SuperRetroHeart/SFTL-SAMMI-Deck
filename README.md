@@ -7,7 +7,7 @@ It's a two-step process:
 1.) Copy the raw text from JSON for a given button, including the opening and closing {curly braces}.
 2.) Open a deck in SAMMI, right click on an open space, and select "Import From JSON".
 
-### Twitch Buttons (API / SAMMI)
+## Twitch Buttons (API / SAMMI)
 [Due to Twitch depreciating slash commands via IRC in February 2023](https://discuss.dev.twitch.tv/t/deprecation-of-chat-commands-through-irc/40486), there may be buttons that use API calls. While SAMMI has covered most API implimentations via built-in commands (such as the **Twitch: Send Announcement** command), some buttons may include API calls for added flexibility or for features that haven't been replicated in built-in SAMMI commands.
 
 ### Alerts
@@ -31,3 +31,6 @@ Twitch-specific automations and buttons, typically related to Twitch chat or Twi
 Buttons with a Twitch API include mention of a "bot" account. There are a couple of different ways bots can work on Twitch; in SAMMI's case, this is a separate account that you've previously set up and connected to SAMMI that you're sending instructons to. I **strongly recommend** that you run API commands via your own account unless you already have an account set up for this purpose.
 
 Buttons using SAMMI commands, in turn, will send messages and announcements based on which account is set as "Join chat under this name" in Twitch Connections. This is selectable at the bottom of the SAMMI Core window. These should be fine for the majority of folks who need automations That Just Work without too much fuss.
+
+## Twitch Decks
+There aren't any here yet, but when I do add them, they'll be for more complex actions that can't be contained in a single button.
