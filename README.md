@@ -18,7 +18,10 @@ Now, did I ever tell you about how I started making my own alerts because all th
 Various bits and pieces that don't fit elsewhere, like tracking a specific number or subscriber goals and other fun things you can do.
 
 ### Moderation
-Various tools, mostly automatons, to help with moderating Twitch chat. That includes issuing automatic bans for specific phrases. 
+Various tools, mostly automatons, to help with moderating Twitch chat. That includes issuing automatic bans for specific phrases.
+
+### Toolkit
+Buttons that don't do anything on their own, but are useful building blocks to create other kinds of buttons. Weighted arrays, dice rollers, data pulls, and the like.
 
 ### Twitch
 Twitch-specific automations and buttons, typically related to Twitch chat or Twitch-exclusive features.
