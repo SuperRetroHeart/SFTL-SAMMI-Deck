@@ -36,7 +36,7 @@ Buttons using SAMMI commands, in turn, will send messages and announcements base
 There aren't any here yet, but when I do add them, they'll be for more complex actions that can't be contained in a single button.
 
 ## Special Thanks
-a_bat's [(Twitch](https://www.twitch.tv/a_bat/videos)/[YouTube](https://www.youtube.com/channel/UCH9Cz-87RLF2Aw0CjVTzAwQ)) YouTube channel, which I stumbled upon after a random search, was hugely helpful in getting me started with SAMMI. His tutorial on creating host alerts was particularly helpful in understanding data pulls and arrays, which ultimately formed the foundation of understanding how SAMMI works as a whole.
+a_bat's ([Twitch](https://www.twitch.tv/a_bat/videos)/[YouTube](https://www.youtube.com/channel/UCH9Cz-87RLF2Aw0CjVTzAwQ)) YouTube channel, which I stumbled upon after a random search, was hugely helpful in getting me started with SAMMI. His tutorial on creating host alerts was particularly helpful in understanding data pulls and arrays, which ultimately formed the foundation of understanding how SAMMI works as a whole.
 
 If you found these buttons useful and managed to read this far, consider following me on [Twitch](https://www.twitch.tv/superretroheart) or supporing me on [Ko-Fi](https://ko-fi.com/retroheart). You don't have to, though. My sincere hope is that someone finds these things I'm making useful and entertaining. As long as someone's getting some use out of them, that's enough for me. That's all for now. See you next.
 
