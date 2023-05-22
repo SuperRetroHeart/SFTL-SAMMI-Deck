@@ -32,7 +32,7 @@ Buttons with a Twitch API include mention of a "bot" account. There are a couple
 
 Buttons using SAMMI commands, in turn, will send messages and announcements based on which account is set as "Join chat under this name" in Twitch Connections. This is selectable at the bottom of the SAMMI Core window. These should be fine for the majority of folks who need automations That Just Work without too much fuss.
 
-## Twitch Decks
+### Twitch Decks
 There aren't any here yet, but when I do add them, they'll be for more complex actions that can't be contained in a single button.
 
 ## Special Thanks
