@@ -35,7 +35,7 @@ Buttons using SAMMI commands, in turn, will send messages and announcements base
 ## Twitch Decks
 There aren't any here yet, but when I do add them, they'll be for more complex actions that can't be contained in a single button.
 
-### Special Thanks
+## Special Thanks
 a_bat's [(Twitch](https://www.twitch.tv/a_bat/videos)/[YouTube](https://www.youtube.com/channel/UCH9Cz-87RLF2Aw0CjVTzAwQ)) YouTube channel, which I stumbled upon after a random search, was hugely helpful in getting me started with SAMMI. His tutorial on creating host alerts was particularly helpful in understanding data pulls and arrays, which ultimately formed the foundation of understanding how SAMMI works as a whole.
 
 That's all for now! See you next.
