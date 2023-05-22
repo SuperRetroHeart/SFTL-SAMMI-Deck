@@ -11,7 +11,7 @@ It's a two-step process:
 [Due to Twitch depreciating slash commands via IRC in February 2023](https://discuss.dev.twitch.tv/t/deprecation-of-chat-commands-through-irc/40486), there may be buttons that use API calls. While SAMMI has covered most API implimentations via built-in commands (such as the **Twitch: Send Announcement** command), some buttons may include API calls for added flexibility or for features that haven't been replicated in built-in SAMMI commands.
 
 ### Alerts
-While these examples were built with Twitch in mind and in turn use Twitch commands and triggers, they can be converted to YouTube alerts by changing certain commands and trigger types in SAMMI. Alerts and other notifications are fun ways to kit out your stream regardless of what platform you stream to. Keep in mind that these are primarily meant to be inspiration for you to make your own alerts, not "out of the box" solutions. You can drop your own sources in to get a feel for how they work, but it's more how the cookies are made rather than the cookies themselves.
+Alerts are built with Twitch in mind, and in turn use Twitch commands and triggers, but they can be converted to YouTube alerts by changing certain commands and trigger types in SAMMI. Keep in mind that these are meant to be inspiration for you to make your own alerts, not "out of the box" solutions. You can drop your own sources in to get a feel for how they work, but it's more showing how the cookies are made rather than a box of cookies.
 Now, did I ever tell you about how I started making my own alerts because all the info I could find in SAMMI about displaying a random image was about twerking Thanos GIFs wait where are you going come back
 
 ### Misc
