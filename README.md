@@ -1,45 +1,25 @@
-# Superfuture Technolabs SAMMI Examples
-This is a collection of buttons and automations for [SAMMI](https://github.com/SAMMISolutions/SAMMI-Official/releases) named (loosely) after the theming of my livestreams. Most buttons are geared towards Twitch specifically, though many of them can be adapted to work with YouTube via adjusting the triggers in SAMMI. Most are designed for automation, such as when you get a new follower.
+# Superfuture Technolabs SAMMI Deck
+This is a collection of buttons and automations for the free [SAMMI stream deck software](https://github.com/SAMMISolutions/SAMMI-Official/releases) named (loosely) after the theming of my livestreams. Compiled into a single deck that can be imported into SAMMI, it contains Twitch alerts, on-screen trackers for things like followers and subscribers, a persistent counter, and various other tools for running streams on Twitch via SAMMI.
 
-## Importing a Button Into SAMMI
-It's a two-step process:
+## Initial Setup
+To get started, download [the SFTL Test Lab Files](https://github.com/SuperRetroHeart/Superfuture-Technlolabs-SAMMI-Deck/raw/main/SFTL%20Test%20Lab%20Files.zip) and unzip the contents directly to the root of your SAMMI directory. This will create a folder named "SFTLTestLab" which contains additional files that will be used as part of examples contained within the deck. If this folder or files are missing, certain buttons will not work.
 
-1.) Copy the raw text from JSON for a given button, including the opening and closing {curly braces}.
-2.) Open a deck in SAMMI, right click on an open space, and select "Import From JSON".
+Once the files have been unzipped, start up both OBS and SAMMI Core, then import the deck into SAMMI by doing the following:
 
-## Twitch Buttons (API / SAMMI)
-[Due to Twitch depreciating slash commands via IRC in February 2023](https://discuss.dev.twitch.tv/t/deprecation-of-chat-commands-through-irc/40486), there may be buttons that use API calls. While SAMMI has covered most API implimentations via built-in commands (such as the **Twitch: Send Announcement** command), some buttons may include API calls for added flexibility or for features that haven't been replicated in built-in SAMMI commands.
+1.) Copy all of the raw text from [the SFTL Stream Deck](https://github.com/SuperRetroHeart/Superfuture-Technlolabs-SAMMI-Deck/blob/main/SFTL%20Stream%20Deck%20v2.0.json), including the opening and closing {curly braces}.
 
-### Alerts
-Alerts are built with Twitch in mind, and in turn use Twitch commands and triggers, but they can be converted to YouTube alerts by changing certain commands and trigger types in SAMMI. Keep in mind that these are meant to be inspiration for you to make your own alerts, not "out of the box" solutions. You can drop your own sources in to get a feel for how they work, but it's more showing how the cookies are made rather than a box of cookies.
-Now, did I ever tell you about how I started making my own alerts because all the info I could find in SAMMI about displaying a random image was about twerking Thanos GIFs wait where are you going come back
+2.) In SAMMI Core, click on the "+", and select "**Paste Deck**".
 
-### Misc
-Various bits and pieces that don't fit elsewhere, like tracking a specific number or subscriber goals and other fun things you can do.
+The deck will populate automatically; open it once, and you should see all the buttons as well as a preview when you save it. Once you've confirmed the deck has been added to SAMMI, open it and run the "Initialize SFTL Test Lab" button. This will create a new scene in OBS - called **SFTL Test Lab** - and populate it with a handful of sources that will be used by the buttons included in the deck.
 
-### Moderation
-Various tools, mostly automatons, to help with moderating Twitch chat. That includes issuing automatic bans for specific phrases.
-
-### Toolkit
-Buttons that don't do anything on their own, but are useful building blocks to create other kinds of buttons. Weighted arrays, dice rollers, data pulls, and the like.
-
-### Twitch
-Twitch-specific automations and buttons, typically related to Twitch chat or Twitch-exclusive features.
-
-## Extra Notes
-### "Bot" accounts and "Join chat under this name" in SAMMI
-Buttons with a Twitch API include mention of a "bot" account. There are a couple of different ways bots can work on Twitch; in SAMMI's case, this is a separate account that you've previously set up and connected to SAMMI that you're sending instructons to. I **strongly recommend** that you run API commands via your own account unless you already have an account set up for this purpose.
-
-Buttons using SAMMI commands, in turn, will send messages and announcements based on which account is set as "Join chat under this name" in Twitch Connections. This is selectable at the bottom of the SAMMI Core window. These should be fine for the majority of folks who need automations That Just Work without too much fuss.
-
-### Twitch Decks
-There aren't any here yet, but when I do add them, they'll be for more complex actions that can't be contained in a single button.
+Beyond that, additional information is included within each button, so please read those carefully to understand how they work and how you can integrate these buttons and concepts into your own streaming setup!
 
 ## Special Thanks
-a_bat's ([Twitch](https://www.twitch.tv/a_bat/videos)/[YouTube](https://www.youtube.com/channel/UCH9Cz-87RLF2Aw0CjVTzAwQ)) YouTube channel, which I stumbled upon after a random search, was hugely helpful in getting me started with SAMMI. His tutorial on creating host alerts was particularly helpful in understanding data pulls and arrays, which ultimately formed the foundation of understanding how SAMMI works as a whole.
+**a_bat's** ([Twitch](https://www.twitch.tv/a_bat/videos)/[YouTube](https://www.youtube.com/channel/UCH9Cz-87RLF2Aw0CjVTzAwQ)) YouTube channel, which I stumbled upon after a random search, was hugely helpful in getting me started with SAMMI. His tutorial on creating host alerts was particularly helpful in understanding data pulls and arrays, which ultimately formed the foundation of understanding how SAMMI works as a whole.
+
+CodeChannel ([Twitch](https://twitch.tv/codechannel)) for her help in being a sort of unofficial beta tester for The Chaos Roller and Persistent Thing Counter. And for being a cool cat.
 
 ---
-If you found these buttons useful and managed to read this far, consider following me on [Twitch](https://www.twitch.tv/superretroheart) or supporing me on [Ko-Fi](https://ko-fi.com/retroheart). You don't have to, though. My sincere hope is that someone finds these things I'm making useful and entertaining. As long as someone's getting some use out of them, that's enough for me. That's all for now. See you next.
+If you found these buttons useful and managed to read this far, consider supporing me on [Ko-Fi](https://ko-fi.com/retroheart), following me on [Twitch](https://www.twitch.tv/superretroheart), checking out my [art](https://retroheart.net) or just [seeing where else to find me](http://links.retroheart.net). You don't have to, though. My sincere hope is that someone finds these things I'm making useful and entertaining. As long as someone's getting some use out of them, that's enough for me. That's all for now. See you next.
 
 ![Bun-E03_Peek_Small](https://github.com/SuperRetroHeart/SFTL-SAMMI-Examples/assets/112423124/971de8ac-e766-41a4-b9c8-66a978d9d3b0)
-
