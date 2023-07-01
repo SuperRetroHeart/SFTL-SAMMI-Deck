@@ -6,7 +6,7 @@ To get started, download [the SFTL Test Lab Files](https://github.com/SuperRetro
 
 Once the files have been unzipped, start up both OBS and SAMMI Core, then import the deck into SAMMI by doing the following:
 
-1.) Copy all of the raw text from [the SFTL Stream Deck](https://github.com/SuperRetroHeart/Superfuture-Technlolabs-SAMMI-Deck/blob/main/SFTL%20Stream%20Deck%20v2.0.json), including the opening and closing {curly braces}.
+1.) Copy all of the raw text from [the SFTL Stream Deck](https://github.com/SuperRetroHeart/Superfuture-Technlolabs-SAMMI-Deck/blob/main/SFTL%20Stream%20Deck%20v2.1.json), including the opening and closing {curly braces}.
 
 2.) In SAMMI Core, click on the "+", and select "**Paste Deck**".
 
