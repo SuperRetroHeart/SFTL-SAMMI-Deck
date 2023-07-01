@@ -1,4 +1,4 @@
-# Superfuture Technolabs SAMMI Deck
+# Superfuture Technolabs Stream Deck for SAMMI
 This is a collection of buttons and automations for the free [SAMMI stream deck software](https://github.com/SAMMISolutions/SAMMI-Official/releases) named (loosely) after the theming of my livestreams. Compiled into a single deck that can be imported into SAMMI, it contains Twitch alerts, on-screen trackers for things like followers and subscribers, a persistent counter, and various other tools for running streams on Twitch via SAMMI.
 
 ## Initial Setup
