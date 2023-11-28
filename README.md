@@ -15,9 +15,9 @@ The deck will populate automatically; open it once, and you should see all the b
 Beyond that, additional information is included within each button, so please read those carefully to understand how they work and how you can integrate these buttons and concepts into your own streaming setup!
 
 ## Special Thanks
-**a_bat's** ([Twitch](https://www.twitch.tv/a_bat/videos)/[YouTube](https://www.youtube.com/channel/UCH9Cz-87RLF2Aw0CjVTzAwQ)) YouTube channel, which I stumbled upon after a random search, was hugely helpful in getting me started with SAMMI. His tutorial on creating host alerts was particularly helpful in understanding data pulls and arrays, which ultimately formed the foundation of understanding how SAMMI works as a whole.
+**a_bat's** ([Twitch](https://www.twitch.tv/a_bat/videos)/[YouTube](https://www.youtube.com/channel/UCH9Cz-87RLF2Aw0CjVTzAwQ)) YouTube channel, which I stumbled upon after a random search, was hugely helpful in getting me started with SAMMI. His tutorial on creating host alerts was particularly helpful in understanding data pulls and arrays, which ultimately formed the foundation of my understanding how SAMMI works as a whole.
 
-**CodeChannel** ([Twitch](https://twitch.tv/codechannel)/[YouTube](https://www.youtube.com/@codechannelVT)) for her help in being a sort of unofficial beta tester for The Chaos Roller and Persistent Thing Counter. And for being a cool cat.
+**CodeChannel** ([Twitch](https://twitch.tv/codechannel)/[YouTube](https://www.youtube.com/@codechannelVT)) for her help in being a sort of beta tester for The Chaos Roller and Persistent Thing Counter... and for putting up with my constant badgering about "hey, SAMMI would work for this". And for being a cool bodega cat vtuber.
 
 ---
 If you found these buttons useful and managed to read this far, consider supporing me on [Ko-Fi](https://ko-fi.com/retroheart), following me on [Twitch](https://www.twitch.tv/superretroheart), checking out my [art](https://retroheart.net) or just [seeing where else to find me](http://links.retroheart.net). You don't have to, though. My sincere hope is that someone finds these things I'm making useful and entertaining. As long as someone's getting some use out of them, that's enough for me. That's all for now. See you next.
